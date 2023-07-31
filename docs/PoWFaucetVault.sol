@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+// Check interface
 pragma solidity ^0.8.15;
 
 // Contract Factory: 0xd58660caD6E1eeeaFf48647c10Fd49428E6277D9 / Salt: 1
